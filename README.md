@@ -1,7 +1,7 @@
 Ce répertoire contient les différents TP d'analyse numériques associés à les 3 chapitres suivantes :
 
-Résolution d'une équation non linéaire 
-Interpolation polynomiale 
+Résolution d'une équation non linéaire /
+Interpolation polynomiale /
 intégration numérique
 
 
